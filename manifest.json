@@ -1,0 +1,7 @@
+{
+    "name": "DSPMultiplyStackSize",
+    "version_number": "1.0.6",
+    "website_url": "",
+    "description": "A simple mod to multiply stack sizes of all items. This work with also modded items.アイテムのスタックサイズを変更するMODです。MODで追加されたアイテムのスタックサイズも変更できます。",
+    "dependencies": []
+}
